@@ -40,7 +40,6 @@
 				</nav><!-- #site-navigation -->
 				<div class="clearfix"></div>
 			</header><!-- #masthead -->
-		</div>
 		
 
 	<div id="content" class="clearfix wrap_container">

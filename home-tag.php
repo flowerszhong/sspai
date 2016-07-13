@@ -1,10 +1,9 @@
 <div class="col-full-tag hidden-xs">
                 <div class="wrap">
-                <!-- 引用地址/public/sspai/scss/sspai/layout byDennis -->
                     <div class="main">
-                        <ul class="clearfix color-hot-tag">
-    <i class="fa fa-bookmark"></i>
-                                            <li>
+                    <ul class="clearfix color-hot-tag">
+                    <i class="fa fa-bookmark"></i>
+                   <li>
                     <a href="http://sspai.com/tag/应用派推荐">
                         限免冰点推荐
                     </a>
@@ -44,24 +43,9 @@
                     <!-- 热门标签 by Dennis-->
                     <div class="sidebar">
                         <ul class="tag-color">
-                                            <li>
-                    <a href="http://sspai.com/submit">
-                        投稿&amp;作者招募
-                    </a>
-                    <span>|</span>
-                </li>
-                            <li>
-                    <a href="http://sspai.com/29213">
-                        开发者自荐
-                    </a>
-                    <span>|</span>
-                </li>
-                            <li>
-                    <a href="http://sspai.com/24122">
-                        商务合作
-                    </a>
-                    <span>|</span>
-                </li>
+                            <li><a href="http://sspai.com/submit">投稿&amp;作者招募</a><span>|</span></li>
+                            <li><a href="http://sspai.com/29213">开发者自荐</a><span>|</span></li>
+                            <li><a href="http://sspai.com/24122">商务合作</a><span>|</span></li>
                         </ul>
                     </div>
                 </div>
